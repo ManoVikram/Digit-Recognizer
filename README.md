@@ -1,4 +1,4 @@
-# Deigit Recognizer
+# Digit Recognizer
 
 This is a Kaggle contest to learn computer vision fundamentals with the famous MNIST data.
 
